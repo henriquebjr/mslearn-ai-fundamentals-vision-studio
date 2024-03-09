@@ -37,11 +37,11 @@ Selecione uma das imagens ou faça upload. Se houverem rostos na imagem, eles se
 
 ### Entrada de dados utilizado no teste
 
-[face_detection.jpg](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/face_detection.jpg)
+[face_detection.jpg](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/images/face_detection.jpg)
 
 ### Resultado no teste
 
-[face_detection_result.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/face_detection_result.json)
+[face_detection_result.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/images/face_detection_result.json)
 
 
 
@@ -58,11 +58,11 @@ Faça upload ou selecione uma das imagens. A descrição do texto virá no quadr
 
 ### Entrada de dados utilizado no teste
 
-[text_ocr.png](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/text_ocr.png)
+[text_ocr.png](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/images/text_ocr.png)
 
 ### Resultado no teste
 
-[text_ocr_result.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/text_ocr_result.json)
+[text_ocr_result.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/images/text_ocr_result.json)
 
 
 
@@ -81,8 +81,8 @@ O resultado da análise será exibido no quadro a direito da tela, em texto puro
 
 ### Entrada de dados utilizado no teste
 
-[image_caption.png](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/image_caption.png)
+[image_caption.png](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/images/image_caption.png)
 
 ### Resultado no teste
 
-[image_caption_result.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/image_caption_result.json)
+[image_caption_result.json](https://raw.githubusercontent.com/henriquebjr/mslearn-ai-fundamentals-vision-studio/main/images/image_caption_result.json)
